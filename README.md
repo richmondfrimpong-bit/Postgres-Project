@@ -21,7 +21,8 @@ A total of 266 locations were captured in this data.
 On average each location had about 32 to 33 years of data available in the dataset.
 Observations span mainly from 1991 - 2024. 
 
-The median youth unemployment rate: 14.182%
+
+	The median youth unemployment rate: 14.182%
 
 	maximum unemployment rate: 82.4090%
 	
