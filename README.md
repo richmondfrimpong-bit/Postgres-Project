@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was built in PostgreSQL
+This project was done in PostgreSQL
 
 The dataset could be located in the "YOUTH UNEMPLOYMENT" folder labeled as "youth_unemployment_global.csv".
 This dataset was downloaded from Kaggle.
