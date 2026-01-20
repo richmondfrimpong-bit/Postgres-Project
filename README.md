@@ -22,9 +22,13 @@ On average each location had about 32 to 33 years of data available in the datas
 Observations span mainly from 1991 - 2024. 
 
 The median youth unemployment rate: 14.182%
+
 	maximum unemployment rate: 82.4090%
+	
 	minimum unemployment rate: 0.2950%
+	
 	Average unemployment rate: 16.6677%
+	
 
 From the analysis it was discovered that Djibouti was the country to have recorded
 the highest youth unemployment rate throughout the entire 34 year period which was
