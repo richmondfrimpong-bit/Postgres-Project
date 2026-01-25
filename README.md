@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was done in PostgreSQL
+This project was done in PostgreSQL and visualised in Tableau
 
 The dataset could be located in the "YOUTH UNEMPLOYMENT" folder labeled as "youth_unemployment_global.csv".
 This dataset was downloaded from Kaggle.
@@ -54,7 +54,11 @@ https://public.tableau.com/authoring/YouthUnemployment_17693382581780/Dashboard1
 ### This chart depicts the distribution of youth unemployment rates accross countries over the 34-year period
 
 <img width="1356" height="684" alt="image" src="https://github.com/user-attachments/assets/2105cc15-a892-41a5-8c4f-e95ccd90e07d" />
-
+From the above chart countries with the darkest colors happen to have the highest recorded unemployment rates over time. It could be 
+clearly seen that Djibouti happens to have the highest recorded rates since its shade its the darkest.
+Following in line are 8 other countries, North Macedonia, Eswatini, Libya, South Africa, Bosnia and Herzegovina, Montenegro, St.Vincent and the Grenadines
+and Namibia.
+On the bottom far right we find countries like Qatar and Cambodia having the least youth unemployment rates.  
 
 ### This is a geographical view of the unemployment distribution over the 34 year period
 
@@ -63,7 +67,11 @@ https://public.tableau.com/authoring/YouthUnemployment_17693382581780/Dashboard1
 ### Youth unemployment distribution by years
 
 <img width="1357" height="687" alt="image" src="https://github.com/user-attachments/assets/48e0e1e7-20d0-49fe-905c-d52aca5eac10" />
-
+From the above chart, the unemployment distribution in years is depicted with 2020 toping the list with the darkest shade.
+This significance of youth unemployment in 2020 must have highly been caused by the Covid-19 pandemic in 2019. As some workers were laid off
+to reduce conjection at the workplace and some businesses also collapsing entirely due to financial shocks caused by the restrictions that were 
+imposed on international travel and public socialization at the time. Some businesses saw their lowest times within those periods and may have caused
+some youth to lose their jobs.
 
 
 
