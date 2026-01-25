@@ -48,6 +48,21 @@ Myanmar experienced the highest percentage change in unemployment rate between 2
 with its rate being hit by a 277.38% increase within the one year period.
 
 
+For an interactive view of the charts below visit my tableau public at: 
+https://public.tableau.com/authoring/YouthUnemployment_17693382581780/Dashboard1#1
+
+### This chart depicts the distribution of youth unemployment rates accross countries over the 34-year period
+
+<img width="1356" height="684" alt="image" src="https://github.com/user-attachments/assets/2105cc15-a892-41a5-8c4f-e95ccd90e07d" />
+
+
+### This is a geographical view of the unemployment distribution over the 34 year period
+
+<img width="1360" height="685" alt="image" src="https://github.com/user-attachments/assets/65cd073e-ccdf-455c-af5a-e871bff93b3a" />
+
+### Youth unemployment distribution by years
+
+<img width="1357" height="687" alt="image" src="https://github.com/user-attachments/assets/48e0e1e7-20d0-49fe-905c-d52aca5eac10" />
 
 
 
@@ -59,15 +74,6 @@ with its rate being hit by a 277.38% increase within the one year period.
 
 
 
-
-
-
-
-
-##########################################################################################################################################################################################################
-
-
-This analysis is incomplete.
 
 
 
